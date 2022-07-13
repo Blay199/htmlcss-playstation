@@ -8,7 +8,9 @@ img {
 }
 .my_hero {
     background-image: url(../img/jumbo-bg.png);
-    min-height: 600px;
+    min-height: 370px;
     background-size: cover;
     background-position: top;
+    color: white;
+    margin-bottom: 1.7rem;
 }
