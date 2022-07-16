@@ -35,3 +35,11 @@ ul, ol, menu {
 .hero_carousel {
     margin-bottom: 4.5rem;
 }
+
+.my_second_hero {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: top;
+    color: white;
+    margin-bottom: 1.7rem;
+}
