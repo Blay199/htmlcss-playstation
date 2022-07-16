@@ -2,6 +2,14 @@ body {
     font-family: 'Play', sans-serif !important;
 }
 
+a {
+    text-decoration: none;
+    color: currentColor;
+}
+
+ul, ol, menu {
+    list-style: none;
+}
 .my_search {
     margin-left: 1rem;
     line-height: 2.5rem;
