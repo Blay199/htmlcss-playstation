@@ -41,5 +41,9 @@ ul, ol, menu {
     background-size: cover;
     background-position: top;
     color: white;
-    margin-bottom: 1.7rem;
+}
+
+.dark_bg {
+    background-color: #1F1F1F;
+    color: white;
 }
