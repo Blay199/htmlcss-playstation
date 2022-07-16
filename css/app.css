@@ -1,16 +1,29 @@
+body {
+    font-family: 'Play', sans-serif !important;
+}
+
 .my_search {
+    margin-left: 1rem;
     line-height: 2.5rem;
     font-size: 1.25rem;
 }
 .my_hero {
     background-image: url(../img/jumbo-bg.png);
-    min-height: 370px;
     background-size: cover;
     background-position: top;
     color: white;
     margin-bottom: 1.7rem;
 }
 
+.my_padding-hero {
+    padding-top: 300px;
+    padding-bottom: 50px;
+}
+
 .my_border {
     border-radius: 20px;
+}
+
+.hero_carousel {
+    margin-bottom: 4.5rem;
 }
