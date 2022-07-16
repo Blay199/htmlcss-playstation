@@ -37,13 +37,23 @@ ul, ol, menu {
 }
 
 .my_second_hero {
-    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
-    background-size: cover;
-    background-position: top;
-    color: white;
+        background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+        background-size: cover;
+        background-position: top;
+        color: white;
 }
 
 .dark_bg {
     background-color: #1F1F1F;
     color: white;
+    margin-bottom: 3.5rem;
+}
+
+.ps-plus_hero {
+    background-color: #BEBCBB;
+}
+
+.ps-plus_hero a {
+    color: #0B5ED7;
+    font-weight: bold;
 }
