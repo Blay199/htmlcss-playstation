@@ -57,3 +57,14 @@ ul, ol, menu {
     color: #0B5ED7;
     font-weight: bold;
 }
+
+.ps-now_hero {
+    background-color: #161C3B;
+    color: white;
+}
+
+.social_wrapper {
+    margin-left: 20,125rem;
+    margin-right: 20,125rem;
+
+}
